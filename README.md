@@ -5,7 +5,7 @@ easy to understand, easy to debug,
 and fun to work on.
 
 * mike@subelsky.com
-* @subelsky
+* http://twitter.com/subelsky
 * http://tinyletter.com/subelsky
 
 [Presentation software](https://github.com/sotte/presenting.vim)
@@ -324,6 +324,9 @@ end
 * Documented
 * Instrumented
 * Shipped
+
+## Minimal techno == maximal productivity
+[Pandora Minimal Techno station](http://www.pandora.com/station/0407f1bebf01e992607b771623f63b252d6c8984f7343ea9)
 
 ## Questions?
 
